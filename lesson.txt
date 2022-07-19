@@ -6,3 +6,4 @@
 Подключаем шрифты
 Начальные стили в CSS
 
+последняя точка https://youtu.be/A7v018gqWOQ?list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&t=401
