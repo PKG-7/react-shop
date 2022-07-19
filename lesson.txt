@@ -1,2 +1,8 @@
+1 Урок https://www.youtube.com/watch?v=DqkGcI1r6fs&list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&index=1
 Вот что имеем под конец этого урока. Это абсолютно пустой проект React
-https://www.youtube.com/watch?v=DqkGcI1r6fs&list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&index=1
+
+2 урок https://www.youtube.com/watch?v=A7v018gqWOQ&list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&index=2
+Создали Header, footer и добавили их в App.js
+Подключаем шрифты
+Начальные стили в CSS
+
