@@ -1,0 +1,2 @@
+Вот что имеем под конец этого урока. Это абсолютно пустой проект React
+https://www.youtube.com/watch?v=DqkGcI1r6fs&list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&index=1
