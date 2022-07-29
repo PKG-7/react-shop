@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Браслет черный",
+      "img": "brace.png",
+      "desc": "lorem asgasg asgiouah snas d",
+      "category": "bracelet",
+      "price": "5000"
+    },
+    {
+      "id": 2,
+      "title": "Браслет серый",
+      "img": "brace.png",
+      "desc": "lorem asgasg asgiouah snas d",
+      "category": "bracelet",
+      "price": "5000"
+    },
+    {
+      "id": 3,
+      "title": "Браслет синий",
+      "img": "brace.png",
+      "desc": "lorem asgasg asgiouah snas d",
+      "category": "bracelet",
+      "price": "5000"
+    }
+  ]
+}
