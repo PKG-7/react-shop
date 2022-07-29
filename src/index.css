@@ -3,10 +3,11 @@
 * {
     margin: 0;
     padding: 0;
+    color: rgb(255, 255, 255);
 }
 
 body {
-    background: #fff;
+    background: rgb(0, 0, 0);
     color: #222;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
@@ -15,4 +16,64 @@ body {
 .wrapper {
     width: 1280px;
     margin: 50px auto;
+}
+
+header .logo {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+header ul.nav{
+    float: right;
+    list-style: none;
+}
+
+header ul.nav li {
+    display: inline;
+    margin-left: 25px;
+    cursor: pointer;
+    transition: opacity 500 ms ease;
+}
+
+header ul.nav li:hover {
+    opacity: 0.5;
+}
+
+header .presentation {
+    margin: 50x 0;
+    background: url('./img/brace.png') no-repeat;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: #bcbcbc;
+    position: relative;
+}
+
+header .presentation::before {
+    content: "Beast accessories";
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 300px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+
+header .presentation::after {
+    content: "Super";
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
 }
